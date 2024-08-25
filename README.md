@@ -1,5 +1,10 @@
+<p align = "center">
+  <img width = "140" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHzIg8bdgo7fNKk9Ylb8YbF2KAaFDLFncVKA&s"/>
+  <h2 align = "center"> Fancy Gohst </h2>
+  <p align = "center"> 😎😎😎</p>
+</p>
 <h1 align="center">Hi 👋, I'm Zishuo</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">Currently studying in Computer Science</h3>
 
 - 🔭 I’m currently working on **RPC**
 
