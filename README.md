@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 📫 How to reach me **zishuowang0619@gmail.com**
+- My Email is: **zishuowang0619@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
