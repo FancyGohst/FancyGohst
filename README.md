@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Zishuo</h1>
 <h3 align="center">Currently studying in Computer Science</h3>
 
-- 🔭 I’m currently working on a **RPC Project**
+- 🔭 I’m currently working on a **LLM Research Project**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Machine Learning**
 
 - My Email is: **zishuowang0619@gmail.com**
 
